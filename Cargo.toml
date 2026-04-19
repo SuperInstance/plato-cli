@@ -1,0 +1,9 @@
+[package]
+name = "plato-cli"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+
+[[bin]]
+name = "plato"
+path = "src/main.rs"
