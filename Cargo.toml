@@ -1,4 +1,6 @@
 [package]
+license = "MIT"
+description = "PLATO Cli component for the Cognitive Capacity Protocol Network"
 categories = ["science"]
 keywords = ["plato", "ai", "tiles", "rooms"]
 repository = "https://github.com/SuperInstance/plato-cli"
