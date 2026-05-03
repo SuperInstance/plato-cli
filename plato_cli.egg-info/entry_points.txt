@@ -1,0 +1,2 @@
+[console_scripts]
+plato-cli = plato_cli:main

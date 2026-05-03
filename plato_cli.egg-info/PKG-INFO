@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: plato-cli
+Version: 0.1.0
+Summary: PLATO CLI — command-line interface for all consciousness packages
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: requests>=2.28
+Requires-Dist: plato-room-phi>=0.1.0
+Requires-Dist: plato-attention-tracker>=0.1.0
+Requires-Dist: plato-meta-tiles>=0.1.0
+Requires-Dist: plato-surrogate>=0.1.0
+Requires-Dist: plato-fflearning>=0.1.0
+Requires-Dist: plato-surprise-detector>=0.1.0
+Requires-Dist: seed-creative-swarm>=0.1.0
+Requires-Dist: flux-reasoner>=0.1.0
+Requires-Dist: fleet-consciousness-dashboard>=0.1.0
+Dynamic: license-file

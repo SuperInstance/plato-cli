@@ -1,0 +1,10 @@
+requests>=2.28
+plato-room-phi>=0.1.0
+plato-attention-tracker>=0.1.0
+plato-meta-tiles>=0.1.0
+plato-surrogate>=0.1.0
+plato-fflearning>=0.1.0
+plato-surprise-detector>=0.1.0
+seed-creative-swarm>=0.1.0
+flux-reasoner>=0.1.0
+fleet-consciousness-dashboard>=0.1.0
