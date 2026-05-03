@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "plato-cli"
+version = "1.0.0"
+description = "Cocapn Fleet module — plato-cli"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["cocapn", "fleet"]
+
+[project.scripts]
+plato_cli = "plato_cli:main"
+
