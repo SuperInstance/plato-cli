@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+plato_cli/__init__.py
+plato_consciousness_cli.egg-info/PKG-INFO
+plato_consciousness_cli.egg-info/SOURCES.txt
+plato_consciousness_cli.egg-info/dependency_links.txt
+plato_consciousness_cli.egg-info/entry_points.txt
+plato_consciousness_cli.egg-info/requires.txt
+plato_consciousness_cli.egg-info/top_level.txt
+tests/test_cli.py

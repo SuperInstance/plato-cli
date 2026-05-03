@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "plato-cli"
+name = "plato-consciousness-cli"
 version = "0.1.0"
 description = "PLATO CLI — command-line interface for all consciousness packages"
 requires-python = ">=3.10"
